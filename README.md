@@ -1,6 +1,6 @@
-# Smart Scaffolding QR Code Reader
+# Smart Scaffolding Computer Vision Pipeline
 
-This repo is for reading in QR codes and determining the shape of a structure through the QR codes. 
+This repo is for performing the computer vision pipeline needed as part of the robot sensing platform.  
 
 ## Getting Started
 
